@@ -9,8 +9,8 @@ This project builds on **Task 05** (F1 Sprint Race Analysis) by turning those in
 4. Documented steps, tools, and challenges faced during the process.
 
 ## Tools Used
-- D-ID (AI Avatar Video)
-- CapCut for minor editing and adding captions.
+- Google Flow
+- Canva for minor editing and merging multiple videos.
 - ChatGPT
 
 ## Reflections
