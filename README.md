@@ -11,7 +11,7 @@ This project builds on **Task 05** (F1 Sprint Race Analysis) by turning those in
 ## Tools Used
 - D-ID (AI Avatar Video)
 - CapCut for minor editing and adding captions.
-- -ChatGPT
+- ChatGPT
 
 ## Reflections
 - Free tools were easy to use but limited in export quality.
